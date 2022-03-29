@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tally</string>
+    <string name="editone">Record</string>
+    <string name="month_out">Month Out</string>
+    <string name="out">Out</string>
+    <string name="month_in">Month In</string>
+    <string name="in">In</string>
+    <string name="budget">Budget</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="see_excel">Chart</string>
+    <string name="add_remark">Add Remark</string>
+    <string name="remark">Remark</string>
+    <string name="ensure">Ensure</string>
+    <string name="cancel">Cancel</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="history_record">Records</string>
+    <string name="account_info">Account Info</string>
+    <string name="please_input_time">Input Time</string>
+    <string name="please_search_info">Search Info</string>
+    <string name="date_empty">Date Empty!</string>
+    <string name="chart_info">Chart Info</string>
+
+    <string name="about_appinfo">Information</string>
+    <string name="about_version">Version</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">About App</string>
+    <string name="about_balabala">This App is a course project for practicing Activity，Fragment，Database and so on！</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_me">About Me</string>
+    <string name="about_loc">A Graduate student in Ohio State University, major Computer Science and Engineering</string>
+    <string name="about_email">Email</string>
+    <string name="about_email2">yang.6113@osu.edu！</string>
+    <string name="about_code">Github</string>
+    <string name="about_codeinfo">https://github.com/LoganYangBo</string>
+    <string name="about_B">LinkedIn</string>
+    <string name="about_B2">https://www.linkedin.com/in/bo-yang-668819220/</string>
+
+    <string name="history_info">Month Bill</string>
+    <string name="clear_all">Reset</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">No Data</string>
+</resources>
