@@ -9,13 +9,12 @@ Show:
 </p>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/36163586/178882174-2bbc28a6-42eb-408d-ad00-3bde46f00404.jpg" width="200" />
-  <img src="hhttps://user-images.githubusercontent.com/36163586/178882176-efb48658-7df7-4109-a899-e150dd6078bd.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/36163586/178882176-efb48658-7df7-4109-a899-e150dd6078bd.jpg" width="200" /> 
   <img src="https://user-images.githubusercontent.com/36163586/178882178-21e335a0-9e15-4a5d-b53c-f7190a4c91e3.jpg" width="200" />
   <img src="https://user-images.githubusercontent.com/36163586/178882179-e379892c-9f71-4d3f-95f9-a123d0a582e1.jpg" width="200" />
 </p>
-![4](https://user-images.githubusercontent.com/36163586/178882174-2bbc28a6-42eb-408d-ad00-3bde46f00404.jpg)![5](https://user-images.githubusercontent.com/36163586/178882176-efb48658-7df7-4109-a899-e150dd6078bd.jpg)![6](https://user-images.githubusercontent.com/36163586/178882178-21e335a0-9e15-4a5d-b53c-f7190a4c91e3.jpg)![7](https://user-images.githubusercontent.com/36163586/178882179-e379892c-9f71-4d3f-95f9-a123d0a582e1.jpg)
 
-# Tally final report
+# Tally
 ## Section 1 – Introduction
  At present, most college students have difficulty in planning their monthly expenses properly, which is the same as me. Therefore, our group decide to design an app to help users achieve the balance of payment records, which is named “Tally”. Through this app, users can see monthly payments, monthly expenses, budgets and records of each payment directly on the home screen. Besides, there are also search, budget, charts, records and selection categories to choose from, providing users with easier visual images.
 When clicking on the search icon, user can see a frame to find any particular payment or receipt. If the user clicks on budget icon, he can see a new frame and enter his target budget. When the user selects the chart module, the app opens a new screen where the user can see a histogram of monthly payments and receipts. Scales for different categories will be displayed at the bottom, and a calendar icon in the upper right helps users change the month. After that, the user can click the back arrow to return to the home screen. Clicking the Record button takes the user to a new screen with a back icon in the upper left corner that helps the user return to the previous screen. In this interface, users can record payments or receipts for various purposes, and can add comments and adjust the recording time. After the user completes this operation, the application will automatically return to the main interface, and the record will appear on the main interface. If the user clicks the Select button, a new interface pops up at the bottom with about, Settings, Records and billing icons. In Settings, the user can reset all stored records, but he should do so carefully. In the record module, the user can see the specific record of each month, and can click the calendar icon to change the month.
