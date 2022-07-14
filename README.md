@@ -7,6 +7,12 @@ Show:
   <img src="https://user-images.githubusercontent.com/36163586/178882167-4a0ccaf5-8ccc-4d56-ae06-ddc9cede048d.jpg" width="200" /> 
   <img src="https://user-images.githubusercontent.com/36163586/178882171-665d3bde-c4cf-47a4-b8b8-e465ec3ee485.jpg" width="200" />
 </p>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/36163586/178882174-2bbc28a6-42eb-408d-ad00-3bde46f00404.jpg" width="200" />
+  <img src="hhttps://user-images.githubusercontent.com/36163586/178882176-efb48658-7df7-4109-a899-e150dd6078bd.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/36163586/178882178-21e335a0-9e15-4a5d-b53c-f7190a4c91e3.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/36163586/178882179-e379892c-9f71-4d3f-95f9-a123d0a582e1.jpg" width="200" />
+</p>
 ![4](https://user-images.githubusercontent.com/36163586/178882174-2bbc28a6-42eb-408d-ad00-3bde46f00404.jpg)![5](https://user-images.githubusercontent.com/36163586/178882176-efb48658-7df7-4109-a899-e150dd6078bd.jpg)![6](https://user-images.githubusercontent.com/36163586/178882178-21e335a0-9e15-4a5d-b53c-f7190a4c91e3.jpg)![7](https://user-images.githubusercontent.com/36163586/178882179-e379892c-9f71-4d3f-95f9-a123d0a582e1.jpg)
 
 # Tally final report
